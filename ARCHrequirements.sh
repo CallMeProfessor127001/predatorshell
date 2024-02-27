@@ -23,6 +23,8 @@ echo -e "${red}"
 sudo pacman -S nmap
 sudo pacman -S wireshark
 sudo pacman -S tshark
+sudo pacman -S php
+sudo pacman -S expect
 
 echo -e "${yellow}"
 
