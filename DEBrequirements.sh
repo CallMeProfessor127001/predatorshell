@@ -30,6 +30,8 @@ echo -e "${red}"
 sudo apt-get install nmap -y
 sudo apt-get install wireshark -y
 sudo apt-get install tshark -y
+sudo apt-get install php
+sudo apt-get install expect
 
 echo -e "${yellow}"
 
