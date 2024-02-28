@@ -15,6 +15,7 @@ sudo apt-get upgrade -y
 
 echo -e "${yellow}"
 sudo apt-get dist-upgrade -y
+sudo apt install linux-headers-$(uname -r) dkms bc -y
 
 echo -e "${green}"
 sudo apt-get autoremove -y
