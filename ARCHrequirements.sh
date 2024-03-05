@@ -38,5 +38,5 @@ sudo pacman -S crunch
 
 echo -e "${green}"
 
-sudo pacman -S metasploit-framework
+sudo pacman -S metasploit
 
