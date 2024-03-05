@@ -21,7 +21,7 @@ sudo pacman -S toilet
 
 echo -e "${red}"
 sudo pacman -S nmap
-sudo pacman -S wireshark
+sudo pacman -S wireshark-qt
 sudo pacman -S tshark
 pacman -S wireshark-cli
 sudo pacman -S php
