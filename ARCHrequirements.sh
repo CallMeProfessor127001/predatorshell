@@ -34,6 +34,7 @@ sudo pacman -S dnsutils
 sudo pacman -S python-pip
 pacman -S python-opencv
 sudo pacman -S python-pipx
+sudo pip install mediapipe --break-system-packages
 
 echo -e "${blue}"
 
