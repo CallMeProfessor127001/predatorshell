@@ -32,6 +32,7 @@ sudo pacman -S wget
 sudo pacman -S curl
 sudo pacman -S dnsutils
 sudo pacman -S python-pip
+pacman -S python-opencv
 
 echo -e "${blue}"
 
