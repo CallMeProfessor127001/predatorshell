@@ -33,6 +33,7 @@ sudo pacman -S curl
 sudo pacman -S dnsutils
 sudo pacman -S python-pip
 pacman -S python-opencv
+sudo pacman -S python-pipx
 
 echo -e "${blue}"
 
