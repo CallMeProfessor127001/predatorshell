@@ -31,6 +31,7 @@ echo -e "${yellow}"
 sudo pacman -S wget
 sudo pacman -S curl
 sudo pacman -S dnsutils
+sudo pacman -S python-pip
 
 echo -e "${blue}"
 
