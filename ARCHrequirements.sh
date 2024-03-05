@@ -30,6 +30,7 @@ echo -e "${yellow}"
 
 sudo pacman -S wget
 sudo pacman -S curl
+sudo pacman -S dnsutils
 
 echo -e "${blue}"
 
