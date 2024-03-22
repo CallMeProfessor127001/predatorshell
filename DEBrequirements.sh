@@ -47,4 +47,6 @@ sudo apt-get install crunch -y
 echo -e "${green}"
 
 sudo apt-get install metasploit-framework -y
+sudo pip install opencv-python
+sudo pip install mediapipe
 
