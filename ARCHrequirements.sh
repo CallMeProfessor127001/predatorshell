@@ -32,10 +32,6 @@ echo -e "${yellow}"
 sudo pacman -S wget
 sudo pacman -S curl
 sudo pacman -S dnsutils
-sudo pacman -S python-pip
-pacman -S python-opencv
-sudo pacman -S python-pipx
-sudo pip install mediapipe --break-system-packages
 
 echo -e "${blue}"
 
@@ -46,3 +42,13 @@ echo -e "${green}"
 
 sudo pacman -S metasploit
 
+echo -e "${red}"
+
+git clone https://github.com/CallMeProfessor127001/shadowlens.git
+git clone https://github.com/CallMeProfessor127001/airstrike.git
+git clone https://github.com/CallMeProfessor127001/webreplica.git
+git clone https://github.com/CallMeProfessor127001/packetwizard.git
+git clone https://github.com/CallMeProfessor127001/autopwn.git
+git clone https://github.com/CallMeProfessor127001/netscout.git
+
+echo -e "${reset}"
