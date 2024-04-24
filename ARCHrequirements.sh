@@ -42,6 +42,8 @@ echo -e "${green}"
 
 sudo pacman -S metasploit
 
+cd /opt/predatorshell/
+
 echo -e "${red}"
 
 git clone https://github.com/CallMeProfessor127001/shadowlens.git
