@@ -48,6 +48,8 @@ echo -e "${green}"
 
 sudo apt-get install metasploit-framework -y
 
+cd /opt/predatorshell/
+
 echo -e "${red}"
 
 git clone https://github.com/CallMeProfessor127001/shadowlens.git
