@@ -47,6 +47,15 @@ sudo apt-get install crunch -y
 echo -e "${green}"
 
 sudo apt-get install metasploit-framework -y
-sudo pip install opencv-python
-sudo pip install mediapipe
+
+echo -e "${red}"
+
+git clone https://github.com/CallMeProfessor127001/shadowlens.git
+git clone https://github.com/CallMeProfessor127001/airstrike.git
+git clone https://github.com/CallMeProfessor127001/webreplica.git
+git clone https://github.com/CallMeProfessor127001/packetwizard.git
+git clone https://github.com/CallMeProfessor127001/autopwn.git
+git clone https://github.com/CallMeProfessor127001/netscout.git
+
+echo -e "${reset}"
 
