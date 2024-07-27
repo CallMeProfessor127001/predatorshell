@@ -52,6 +52,8 @@ cd /opt/predatorshell/
 
 echo -e "${red}"
 
+cd /opt/predatorshell
+
 git clone https://github.com/CallMeProfessor127001/shadowlens.git
 git clone https://github.com/CallMeProfessor127001/airstrike.git
 git clone https://github.com/CallMeProfessor127001/webreplica.git
