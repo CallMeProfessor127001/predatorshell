@@ -61,5 +61,8 @@ git clone https://github.com/CallMeProfessor127001/packetwizard.git
 git clone https://github.com/CallMeProfessor127001/autopwn.git
 git clone https://github.com/CallMeProfessor127001/netscout.git
 
+chmod +x /opt/predatorshell
+chmod -R 777 /opt/predatorshell
+
 echo -e "${reset}"
 
