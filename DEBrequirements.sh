@@ -26,6 +26,9 @@ sudo apt-get install figlet -y
 sudo apt-get install cowsay -y
 sudo apt-get install lolcat -y
 sudo apt-get install toilet -y
+apt install espeak          
+apt install espeak-ng-espeak
+
 
 echo -e "${red}"
 sudo apt-get install nmap -y
