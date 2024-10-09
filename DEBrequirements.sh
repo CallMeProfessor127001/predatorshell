@@ -26,8 +26,8 @@ sudo apt-get install figlet -y
 sudo apt-get install cowsay -y
 sudo apt-get install lolcat -y
 sudo apt-get install toilet -y
-apt install espeak          
-apt install espeak-ng-espeak
+apt install espeak -y         
+apt install espeak-ng-espeak -y
 
 
 echo -e "${red}"
